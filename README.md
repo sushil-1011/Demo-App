@@ -6,7 +6,7 @@ This is a simple demo mobile application developed using Flutter.
 
 The purpose of this project is to demonstrate the basic structure of a Flutter application, including UI design, navigation, and basic functionality.
 
-This app is built for learning and practice purposes.
+This app is built for just familier with Flutter and dart. It is not a Grand app.. just a basic and smiple..
 
 
 ## Features
